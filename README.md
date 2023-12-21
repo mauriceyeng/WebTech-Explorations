@@ -34,13 +34,6 @@ Each directory in this repository corresponds to a specific topic. Inside, you'l
 
 While this is primarily a personal learning repository, I welcome insights, suggestions, and contributions from fellow learners and professionals. Feel free to fork, star, or contribute to this repository. Any input that helps improve understanding or code quality is highly appreciated!
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-A special thanks to all the educators, developers, and communities that have provided invaluable resources and support throughout this learning journey.
 
 ---
 
